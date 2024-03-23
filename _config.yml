@@ -1,9 +1,49 @@
-title: Project Shiba Docs
-description: Welcome to our server documentaiton!
+title: Project Shiba Wiki
+description: Welcome to our server documentation!
 theme: just-the-docs
 color_scheme: dark
+nav_external_links_new_tab: true
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Discord: https://discord.gg/projectshiba
+  Website: https://projectshiba.com
+
+nav_external_links:
+  - title: Discord
+    url: https://discord.gg/projectshiba
+  - title: Website
+    url: https://projectshiba.com
+
+exclude:
+  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # specific to the theme website:
+  - bin/
+  - lib/
+  - "*.gemspec"
+  - "*.gem"
+  - LICENSE.txt
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README.md
+  - CODE_OF_CONDUCT.md
+  - docker-compose.yml
+  - Dockerfile
+  # theme test code
+  - fixtures/
+
+search_enabled: true
+search:
+  rel_url: false
