@@ -1,8 +1,8 @@
 ---
 title: Custom Pokeballs
-layout: Home
-has_children: false
-nav_order: 3
+layout: home
+has_children: true
+nav_order: 1
 ---
 
 # Custom Poke Balls
