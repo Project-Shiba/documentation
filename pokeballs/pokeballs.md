@@ -28,7 +28,7 @@ nav_order: 3
 | Strike Ball     | Changes caught Pokemon to its Strike Palette  | Boltund, Crobat, Eevee, Electivire, Espeon, Gallade, Gardevoir, Golbat, Jolteon, Kirlia, Leafeon, Ninetales, Poliwrath, Ralts, Sneasel, Umbreon, Vaporeon, Vivillon, Vulpix, Weavile, Yamper, Zubat                       | ¥150,000  |
 | Zombie Ball     | Changes caught Pokemon to its Zombie palette  | Arcanine, Balstoise, Blaziken, Chesnaught, Delphox, Ditto, Emboar, Empoleon, Feraligatr, Greninja, Infernape, Meganium, Sableye, Samurott, Sceptile, Serperior, Swampert, Torterra, Typhlosion, Venusaur                  | ¥150,000  |
 | Wireframe Ball* | Changes caught Pokemon to its Wireframe form  | All Pokemon                                                                                                                                                                                                               | ¥150,000  |
-
+<br>
 <i>* Wireframe Balls change a pokemon's <b>form</b> to Wireframe, not its palette. All Pokemon/Palette combinations can be wireframed. </i>
 
 <h2> Effect Balls </h2>
