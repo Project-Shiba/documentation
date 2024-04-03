@@ -29,6 +29,7 @@ nav_order: 1
 | Zombie Ball    | Changes caught Pokemon to its Zombie palette  | Arcanine, Balstoise, Blaziken, Chesnaught, Delphox, Ditto, Emboar, Empoleon, Feraligatr, Greninja, Infernape, Meganium, Sableye, Samurott, Sceptile, Serperior, Swampert, Torterra, Typhlosion, Venusaur                  | ¥150000 |
 | Wireframe Ball | Changes caught Pokemon to its Wireframe form  | All Pokemon                                                                                                                                                                                                               | ¥150000 |
 
+
 <i>* Wireframe Balls change a pokemon's <b>form</b> to Wireframe, not its palette. All Pokemon/Palette combinations can be wireframed. </i>
 
 <h2> Effect Balls </h2>
