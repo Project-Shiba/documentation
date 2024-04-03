@@ -1,6 +1,6 @@
 ---
-title: Pokeballs
-layout: home
+title: Custom Pokeballs
+layout: page
 has_children: false
 nav_order: 3
 ---
