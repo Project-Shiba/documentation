@@ -3,11 +3,12 @@ title: Custom Pokeballs
 layout: home
 has_children: false
 nav_order: 1
+has_toc: true
 ---
 
 # Custom Poke Balls
 
-<h2> Utility Balls </h2>
+## Utility Balls
 
 | Ball                | Usage                                                                                    | Works on                           | Price    | Catch Rate |
 |:--------------------|:-----------------------------------------------------------------------------------------|:-----------------------------------|:---------|:-----------|
@@ -16,7 +17,7 @@ nav_order: 1
 | MaxIV Ball          | Gives a Pokemon max battle IVs on catch                                                  | All Pokemon                        | ¥150,000 | 2x         |
 | Hidden Ability Ball | Changes the Pokemon's ability to one of its Hidden Abilities                             | Pokemon must have a Hidden Ability | ¥150,000 | 2x         |
 
-<h2> Palette Balls </h2>
+## Palette Balls 
 
 | Ball           | Usage                                         | Works on                                                                                                                                                                                                                  | Price    | Catch Rate |
 |:---------------|:----------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------|:-----------|
@@ -32,7 +33,7 @@ nav_order: 1
 
 <i>* Wireframe Balls change a pokemon's <b>form</b> to Wireframe, not its palette. All Pokemon/Palette combinations can be wireframed. </i>
 
-<h2> Effect Balls </h2>
+## Effect Balls 
 
 | Ball                   | Usage                                                                                                             | Price    | Catch Rate                  |
 |:-----------------------|:------------------------------------------------------------------------------------------------------------------|:---------|:----------------------------|
@@ -44,7 +45,7 @@ nav_order: 1
 | Photo Ball             | Awards a photo of the caught Pokemon                                                                              | ¥750     | 2x                          |
 | Plushie Ball           | Awards a plushie of the caught Pokemon                                                                            | ¥750     | 2x                          |
 
-<h2> Form-Changing Balls </h2>
+## Form-Changing Balls
 
 | Ball           | Usage                                                      | Catch Rate |
 |:---------------|:-----------------------------------------------------------|:-----------|
@@ -53,7 +54,7 @@ nav_order: 1
 | Feminine Ball  | Changes a Pokemon's gender to Female upon catch            | 2x         |
 | Masculine Ball | Changes a Pokemon's gender to Male upon catch              | 2x         |
 
-<h2> Status Effect Balls </h2>
+## Status Effect Balls 
 
 | Ball          | Usage/Catch Rate                                                                 | 
 |:--------------|:---------------------------------------------------------------------------------|
