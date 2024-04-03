@@ -1,5 +1,5 @@
 ---
-title: Clans
+title: Pokeballs
 layout: home
 has_children: true
 nav_order: 3
@@ -13,8 +13,8 @@ nav_order: 3
 |:--------------------|:-----------------------------------------------------------------------------------------|:-----------------------------------|:---------|
 | Clone Ball          | Receive a clone of the Pokemon caught with this ball                                     | All Pokemon                        | ¥150,000 |
 | Gigantamax Ball     | Gives a Pokemon (if it's able to have it) the Gigantamax factor <b>(100% catch rate)</b> | All Pokemon                        | ¥375,000 |
-| MaxIV Ball          | Gives a Pokemon max battle IVs on catch                                                  | All Pokemon                        | Y        |
-| Hidden Ability Ball | Changes the Pokemon's ability to one of its Hidden Abilities                             | Pokemon must have a Hidden Ability |          |
+| MaxIV Ball          | Gives a Pokemon max battle IVs on catch                                                  | All Pokemon                        | ¥150,000 |
+| Hidden Ability Ball | Changes the Pokemon's ability to one of its Hidden Abilities                             | Pokemon must have a Hidden Ability | ¥150,000 |
 
 <h2> Palette Balls </h2>
 
@@ -28,6 +28,7 @@ nav_order: 3
 | Strike Ball     | Changes caught Pokemon to its Strike Palette  | Boltund, Crobat, Eevee, Electivire, Espeon, Gallade, Gardevoir, Golbat, Jolteon, Kirlia, Leafeon, Ninetales, Poliwrath, Ralts, Sneasel, Umbreon, Vaporeon, Vivillon, Vulpix, Weavile, Yamper, Zubat                       | ¥150,000  |
 | Zombie Ball     | Changes caught Pokemon to its Zombie palette  | Arcanine, Balstoise, Blaziken, Chesnaught, Delphox, Ditto, Emboar, Empoleon, Feraligatr, Greninja, Infernape, Meganium, Sableye, Samurott, Sceptile, Serperior, Swampert, Torterra, Typhlosion, Venusaur                  | ¥150,000  |
 | Wireframe Ball* | Changes caught Pokemon to its Wireframe form  | All Pokemon                                                                                                                                                                                                               | ¥150,000  |
+
 <i>* Wireframe Balls change a pokemon's <b>form</b> to Wireframe, not its palette. All Pokemon/Palette combinations can be wireframed. </i>
 
 <h2> Effect Balls </h2>
