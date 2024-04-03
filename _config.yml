@@ -3,7 +3,7 @@ description: Welcome to our server documentation!
 theme: just-the-docs
 color_scheme: dark
 nav_external_links_new_tab: true
-
+permalink: /:title/
 url: https://just-the-docs.github.io
 
 aux_links:
