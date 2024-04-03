@@ -1,7 +1,7 @@
 ---
 title: Pokeballs
 layout: home
-has_children: true
+has_children: false
 nav_order: 3
 ---
 
