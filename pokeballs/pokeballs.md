@@ -13,7 +13,7 @@ nav_order: 3
 |:--------------------|:-----------------------------------------------------------------------------------------|:-----------------------------------|:---------|
 | Clone Ball          | Receive a clone of the Pokemon caught with this ball                                     | All Pokemon                        | ¥150,000 |
 | Gigantamax Ball     | Gives a Pokemon (if it's able to have it) the Gigantamax factor <b>(100% catch rate)</b> | All Pokemon                        | ¥375,000 |
-| MaxIV Ball          | Gives a Pokemon max battle IVs on catch                                                  | All Pokemon                        |          |
+| MaxIV Ball          | Gives a Pokemon max battle IVs on catch                                                  | All Pokemon                        | Y        |
 | Hidden Ability Ball | Changes the Pokemon's ability to one of its Hidden Abilities                             | Pokemon must have a Hidden Ability |          |
 
 <h2> Palette Balls </h2>
