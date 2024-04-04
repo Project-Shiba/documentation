@@ -2,13 +2,14 @@
 title: Custom Textures
 layout: home
 has_children: true
-nav_order: 2
+nav_order: 3
+has_toc: true
 ---
 
 # Project: Shiba Server Textures
 ## A comprehensive list of all custom server textures (palettes) available!
 
-<h2> Aurora Palettes </h2>
+# Aurora Palettes 
 Spawning locations: none
 
 | Palettes  | Palettes   | Palettes   | Palettes   | Palettes |
@@ -29,7 +30,7 @@ Spawning locations: none
 | Espeon    | Jigglypuff | Phione     | Whismur    |          |
 | Espurr    | Joltik     | Rayquaza   | Wigglytuff |          |
 
-<h2> Ancient Palettes </h2>
+# Ancient Palettes 
 Spawning locations: none
 
 | Palettes     |
@@ -40,7 +41,7 @@ Spawning locations: none
 | Bronzong     |
 | Duraludon    |
 
-<h2> Assassin Palettes </h2>
+# Assassin Palettes 
 Spawning locations: none
 
 | Palettes     |
@@ -52,7 +53,7 @@ Spawning locations: none
 | Mimikyu      |
 | Kartana      |
 
-<h2> Rainbow Palettes </h2>
+# Rainbow Palettes 
 Spawning locations: none
 
 | Palettes  |
@@ -62,7 +63,7 @@ Spawning locations: none
 | Leafeon   |
 | Pikachu   |
 
-<h2> Pink Coral Palettes </h2>
+# Pink Coral Palettes 
 Spawning locations: Dreamworld
 
 | Palettes   | Palettes   |
@@ -78,7 +79,7 @@ Spawning locations: Dreamworld
 | Lanturn    | Typhlosion |
 | Lapras     |            |
 
-<h2> Orange Coral Palettes </h2>
+# Orange Coral Palettes 
 Spawning locations: Dreamworld
 
 | Palettes   | Palettes   |
@@ -94,7 +95,7 @@ Spawning locations: Dreamworld
 | Lanturn    | Typhlosion |
 | Lapras     |            |
 
-<h2> Ninja Palettes </h2>
+# Ninja Palettes 
 Spawning locations: none
 
 | Palettes  |
@@ -108,7 +109,7 @@ Spawning locations: none
 | Starmie   |
 | Zarude    |
 
-<h2> MissingNo Palettes </h2>
+# MissingNo Palettes 
 Spawning locations: none
 
 | Palettes       |
@@ -123,7 +124,7 @@ Spawning locations: none
 | MissingShrek   |
 | MissingYugi    |
 
-<h2> Lunar Palettes </h2>
+# Lunar Palettes 
 Spawning locations: none
 
 | Palettes |
@@ -131,7 +132,7 @@ Spawning locations: none
 | Chimecho |
 | Rayquaza |
 
-<h2> Limited Palettes </h2>
+# Limited Palettes 
 Spawning locations: none
 
 | Palettes   | Palettes  |
@@ -147,7 +148,7 @@ Spawning locations: none
 | Mew        |           |
 | Mewtwo     |           |
 
-<h2> Floral Palettes </h2>
+# Floral Palettes 
 Spawning locations: none
 
 | Palettes   | Palettes   | Palettes  | Palettes   | Palettes |
@@ -165,7 +166,7 @@ Spawning locations: none
 | Shroomish  | Eldegoss   | Petilil   | Tapu Koko  |          |
 | Breloom    | Turtwig    | Lilligant | Tapu Lele  |          |
 
-<h2> Crystalline Palettes </h2>
+# Crystalline Palettes 
 Spawning locations: none
 
 | Palettes  | Palettes |
@@ -181,7 +182,7 @@ Spawning locations: none
 | Noivern   |          |
 | Palkia    |          |
 
-<h2> Golden Volcanic Palettes </h2>
+# Golden Volcanic Palettes 
 Spawning locations: /warp volcano
 
 | Palettes   | Palettes  | Palettes  |
@@ -197,7 +198,7 @@ Spawning locations: /warp volcano
 | Golett     | Steelix   |           |
 | Golurk     | Regirock  |           |
 
-<h2> Cosmotian Palettes </h2>
+# Cosmotian Palettes 
 Spawning locations: none
 
 | Palettes |
@@ -208,7 +209,7 @@ Spawning locations: none
 | Xerneas  |
 | Zekrom   |
 
-<h2> Corrupter Palettes </h2>
+# Corrupter Palettes 
 Spawning locations: none
 
 | Palettes  |
@@ -223,7 +224,7 @@ Spawning locations: none
 | Spiritomb |
 | Victini   |
 
-<h2> Black & White Palettes </h2>
+# Black & White Palettes 
 Spawning locations: none
 
 | Palettes | Palettes   | Palettes |
@@ -239,7 +240,7 @@ Spawning locations: none
 | Leafeon  | Victini    |          |
 | Glaceon  | Volcarona  |          |
 
-<h2> Sakura Palettes </h2>
+# Sakura Palettes 
 Spawning locations: none
 
 | Palettes  | Palettes |
@@ -255,7 +256,7 @@ Spawning locations: none
 | Solgaleo  |          |
 | Venusaur  |          |
 
-<h2> Shadow Palettes </h2>
+# Shadow Palettes 
 Spawning locations: none
 
 | Palettes   | Palettes        |
@@ -270,7 +271,7 @@ Spawning locations: none
 | Snorlax    |                 |
 | Spinda     |                 |
 
-<h2> Spiritual Palettes </h2>
+# Spiritual Palettes 
 Spawning locations: none
 
 | Palettes       |
@@ -284,7 +285,7 @@ Spawning locations: none
 | Aegislash      |
 | Kartana        |
 
-<h2> Shiba Palettes </h2>
+# Shiba Palettes
 Spawning locations: none
 
 | Palettes   | Palettes        |
@@ -298,7 +299,7 @@ Spawning locations: none
 | Mismagius  |                 |
 | Misdreavus |                 |
 
-<h2> Volcanic Palettes </h2>
+# Volcanic Palettes
 Spawning locations: /warp volcano
 
 | Palettes    | Palettes   | Palettes         | Palettes        | 
@@ -316,7 +317,7 @@ Spawning locations: /warp volcano
 | Arctibax    | Kleavor    | Hisuian Samurott |                 |
 | Baxcaliber  | Krookadile | Galarian Slowbro |                 |
 
-<h2> Spooky Palettes </h2>
+# Spooky Palettes 
 Spawning locations: none
 
 | Palettes    | Palettes   | Palettes  | Palettes   | Palettes   | Palettes    | Palettes |
@@ -334,7 +335,7 @@ Spawning locations: none
 | Chimecho    | Drifblim   | Gliscor   | Magneton   | Spiritomb  | Meowscarada |          |
 | Cofagrigus  | Drifloon   | Golett    | Magnezone  | Tapu Lele  | Gengar      |          |
 
-<h2> Valentine's Palettes </h2>
+# Valentine's Palettes
 Spawning locations: none
 
 | Palettes   | Palettes  | Palettes        |
@@ -350,7 +351,7 @@ Spawning locations: none
 | Gloom      | Leafeon   |                 |
 | Lugia      | Sylveon   |                 |
 
-<h2> Christmas Palettes </h2>
+# Christmas Palettes
 Spawning locations: none
 
 | Palettes        | Palettes |
