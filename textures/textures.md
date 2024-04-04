@@ -5,8 +5,8 @@ has_children: true
 nav_order: 2
 ---
 
-<h2 class="text-delta">Project: Shiba Server Textures</h2>
-<h4>A comprehensive list of all custom server textures (palettes) available!</h4>
+# Project: Shiba Server Textures
+## A comprehensive list of all custom server textures (palettes) available!
 
 <h2> Aurora Palettes </h2>
 Spawning locations: none
