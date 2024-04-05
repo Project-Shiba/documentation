@@ -8,6 +8,11 @@ has_toc: true
 
 # Custom Poke Balls
 
+{: .warning }
+> Custom Pokeballs on this page DO NOT function in raids! If used in a raid, a custom Pokeball will only act as a regular Ultraball.
+> 
+> The ONLY exception to this are Wireframe balls. Wireframe is not a palette, so a Wireframe ball will function properly in raids.
+
 ## Utility Balls
 
 | Ball                | Usage                                                                                    | Works on                           | Price    | Catch Rate |
