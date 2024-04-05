@@ -20,6 +20,7 @@ Download the Technic Launcher [here](https://www.technicpack.net/download)
 
 - Finally, click "Play"
 
+{: .highlight }
 > Optional Performance Tip: Check your Java Settings!
 > - Click "Launcher Options" in the top-right side of the window.
 > - Click "Java Settings"
