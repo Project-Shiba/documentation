@@ -8,11 +8,12 @@ parent: Tutorials
 
 {: .highlight }
 > **Suggested & Easiest Method: Technic**
+> 
 > The Project: Shiba Technic modpack will always be on the correct version of all mods and resource packs!
 
 # Automatic Installation
 
-> ### For more detailed instructions, see: [Connecting to Project: Shiba](https://wiki.projectshiba.com/tutorials/connecting_to_the_server)
+### For more detailed instructions, see: [Connecting to Project: Shiba](https://wiki.projectshiba.com/tutorials/connecting_to_the_server)
 
 - Download the Technic Launcher [here](https://www.technicpack.net/download)
 
