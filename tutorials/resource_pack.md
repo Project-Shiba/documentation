@@ -4,21 +4,21 @@ layout: page
 parent: Tutorials
 ---
 
-# How to Resource Pack
+# How to Install Resource Pack
 
 {: .highlight }
-> ## Suggested & Easiest Method: Technic
+> **Suggested & Easiest Method: Technic**
 > The Project: Shiba Technic modpack will always be on the correct version of all mods and resource packs!
 
 # Automatic Installation
 
 > ### For more detailed instructions, see: [Connecting to Project: Shiba](https://wiki.projectshiba.com/tutorials/connecting_to_the_server)
 
-Download the Technic Launcher [here](https://www.technicpack.net/download)
+- Download the Technic Launcher [here](https://www.technicpack.net/download)
 
-In the Launcher, search for "Project: Shiba" and find our icon: <img src="/images/small_shiba_icon.png" width="16" height="16">
+- In the Launcher, search for "Project: Shiba" and find our icon: <img src="/images/small_shiba_icon.png" width="16" height="16">
 
-- Install, then click Play.
+  - Install, then click Play.
 
 # Manual Installation
 
