@@ -48,7 +48,7 @@ has_toc: true
 | Loot Ball              | Upon catch, awards extra items from that Pokemon's loot table                                                     | ¥750     | 2x                          |
 | Money Ball             | Upon catch, pays the player ¥10000                                                                                | ¥10000   | 2x                          |
 | Photo Ball             | Awards a photo of the caught Pokemon                                                                              | ¥750     | 2x                          |
-| Plushie Ball           | Awards a plushie of the caught Pokemon                                                                            | ¥750     | 2x                          |
+| Plushie Ball           | Awards a plushie of the caught Pokemon                                                                            | ¥75000   | 2x                          |
 
 ## Form-Changing Balls
 
