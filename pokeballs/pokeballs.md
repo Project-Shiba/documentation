@@ -54,7 +54,7 @@ has_toc: true
 
 | Ball                                                            | Usage                                                      | Catch Rate |
 |:----------------------------------------------------------------|:-----------------------------------------------------------|:-----------|
-| ![De-Evolution Ball](/pokeballs/evolution_ball.png) De-Evo Ball | Changes Pokemon to its previous evolution stage upon catch | 2x         |
+| ![De-Evolution Ball](/pokeballs/baby_ball.png) De-Evo Ball      | Changes Pokemon to its previous evolution stage upon catch | 2x         |
 | ![Evolution Ball](/pokeballs/evolution_ball.png) Evolution Ball | Changes Pokemon to its next evolution stage upon catch     | 2x         |
 | ![Feminine Ball](/pokeballs/feminine_ball.png) Feminine Ball    | Changes a Pokemon's gender to Female upon catch            | 2x         |
 | ![Masculine Ball](/pokeballs/masculine_ball.png) Masculine Ball | Changes a Pokemon's gender to Male upon catch              | 2x         |
