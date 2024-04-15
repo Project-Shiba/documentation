@@ -5,6 +5,7 @@ parent: Tutorials
 ---
 
 # How to Resource Pack
+
 {: .highlight }
 > ## Suggested & Easiest Method: Technic
 > The Project: Shiba Technic modpack will always be on the correct version of all mods and resource packs!

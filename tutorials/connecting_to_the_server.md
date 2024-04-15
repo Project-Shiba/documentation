@@ -15,6 +15,7 @@ Download the Technic Launcher [here](https://www.technicpack.net/download)
 - In the Technic Launcher, once opened, click "Modpacks" 
 
 - In the search bar, search "Project Shiba"
+  - Find our icon <img src="/images/small_shiba_icon.png" width="16" height="16"> 
 
 - Click "Download"
 
