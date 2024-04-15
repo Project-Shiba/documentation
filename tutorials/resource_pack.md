@@ -16,7 +16,7 @@ parent: Tutorials
 
 - Download the Technic Launcher [here](https://www.technicpack.net/download)
 
-- In the Launcher, search for "Project: Shiba" and find our icon: <img src="/images/small_shiba_icon.png" width="16" height="16">
+- In the Launcher, search for "**Project: Shiba**" and find our icon: <img src="/images/small_shiba_icon.png" width="16" height="16">
 
   - Install, then click Play.
 
@@ -35,7 +35,7 @@ parent: Tutorials
 
 ### Step 3
 
-- On the bottom left of your screen, click Open Pack Folder
+- On the bottom left of your screen, click "**Open Pack Folder**"
 
 ### Step 4
 
@@ -46,7 +46,7 @@ parent: Tutorials
 ### Step 5
 
 - Move projectshibaresources.zip to the right-side column labeled "**Selected**"
-- Click "Done"
+- Click "**Done**"
 
 ### Step 6
 
