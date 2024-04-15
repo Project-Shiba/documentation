@@ -61,13 +61,13 @@ has_toc: true
 
 ## Status Effect Balls 
 
-| Ball                                                         | Usage/Catch Rate                                                                 | 
-|:-------------------------------------------------------------|:---------------------------------------------------------------------------------|
-| ![Burn Ball](/pokeballs/burn_ball.png) Burn Ball             | 8x catch rate against burnt Pokemon                                              |
-| ![Freeze Ball](/pokeballs/freeze_ball.png) Freeze Ball       | 8x catch rate against frozen Pokemon                                             |
-| ![Paralyze Ball](/pokeballs/paralyze_ball.png) Paralyze Ball | 8x catch rate against paralyzed Pokemon                                          |
-| ![Poison Ball](/pokeballs/poison_ball.png) Poison Ball       | 8x catch rate against poisoned Pokemon                                           |
-| ![Switch Ball](/pokeballs/team_ball.png) Switch Ball         | Upon catch, sends your Party Slot 6 Pokemon to your PC, switching places with it |
+| Ball                                                         | Usage/Catch Rate                                                                 | Price |
+|:-------------------------------------------------------------|:---------------------------------------------------------------------------------|:------|
+| ![Burn Ball](/pokeballs/burn_ball.png) Burn Ball             | 8x catch rate against burnt Pokemon                                              | ¥750  |
+| ![Freeze Ball](/pokeballs/freeze_ball.png) Freeze Ball       | 8x catch rate against frozen Pokemon                                             | ¥750  |
+| ![Paralyze Ball](/pokeballs/paralyze_ball.png) Paralyze Ball | 8x catch rate against paralyzed Pokemon                                          | ¥750  |
+| ![Poison Ball](/pokeballs/poison_ball.png) Poison Ball       | 8x catch rate against poisoned Pokemon                                           | ¥750  |
+| ![Switch Ball](/pokeballs/team_ball.png) Switch Ball         | Upon catch, sends your Party Slot 6 Pokemon to your PC, switching places with it | ¥750  |
 
 
 
