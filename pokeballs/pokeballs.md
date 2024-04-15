@@ -40,34 +40,34 @@ has_toc: true
 
 ## Effect Balls 
 
-| Ball                                                                       | Usage                                                                                                             | Price    | Catch Rate                  |
-|:---------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------|:---------|:----------------------------|
-| ![image tooltip here](/pokeballs/death_ball.png) Death Ball                | Want to chance fate? You have a 50/50 chance of either being killed or getting an instant catch (100% catch rate) | ¥350,000 | 50% change to instant-catch |
-| ![image tooltip here](/pokeballs/firework_ball.png) Firework Ball          | Shoots fireworks upon catch                                                                                       | ¥750     | 2x                          |
-| ![image tooltip here](/pokeballs/breeding_ball.png) Daycare Materials Ball | Upon catch, awards random items from that Pokemon's breeding materials pool                                       | ¥750     | 2x                          |
-| ![image tooltip here](/pokeballs/loot_ball.png) Loot Ball                  | Upon catch, awards extra items from that Pokemon's loot table                                                     | ¥750     | 2x                          |
-| ![image tooltip here](/pokeballs/money_ball.png) Money Ball                | Upon catch, pays the player ¥10000                                                                                | ¥10000   | 2x                          |
-| ![image tooltip here](/pokeballs/photo_ball.png) Photo Ball                | Awards a photo of the caught Pokemon                                                                              | ¥750     | 2x                          |
-| ![image tooltip here](/pokeballs/plushie_ball.png) Plushie Ball            | Awards a plushie of the caught Pokemon                                                                            | ¥75000   | 2x                          |
+| Ball                                                                 | Usage                                                                                                             | Price    | Catch Rate                  |
+|:---------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------|:---------|:----------------------------|
+| ![Death Ball](/pokeballs/death_ball.png) Death Ball                  | Want to chance fate? You have a 50/50 chance of either being killed or getting an instant catch (100% catch rate) | ¥350,000 | 50% change to instant-catch |
+| ![Firework Ball](/pokeballs/firework_ball.png) Firework Ball         | Shoots fireworks upon catch                                                                                       | ¥750     | 2x                          |
+| ![Daycare Ball](/pokeballs/breeding_ball.png) Daycare Materials Ball | Upon catch, awards random items from that Pokemon's breeding materials pool                                       | ¥750     | 2x                          |
+| ![Loot Ball](/pokeballs/loot_ball.png) Loot Ball                     | Upon catch, awards extra items from that Pokemon's loot table                                                     | ¥750     | 2x                          |
+| ![Money Ball](/pokeballs/money_ball.png) Money Ball                  | Upon catch, pays the player ¥10000                                                                                | ¥10000   | 2x                          |
+| ![Photo Ball](/pokeballs/photo_ball.png) Photo Ball                  | Awards a photo of the caught Pokemon                                                                              | ¥750     | 2x                          |
+| ![Plushie Ball](/pokeballs/plushie_ball.png) Plushie Ball            | Awards a plushie of the caught Pokemon                                                                            | ¥75000   | 2x                          |
 
 ## Form-Changing Balls
 
-| Ball                                                                | Usage                                                      | Catch Rate |
-|:--------------------------------------------------------------------|:-----------------------------------------------------------|:-----------|
-| ![image tooltip here](/pokeballs/evolution_ball.png) De-Evo Ball    | Changes Pokemon to its previous evolution stage upon catch | 2x         |
-| ![image tooltip here](/pokeballs/evolution_ball.png) Evolution Ball | Changes Pokemon to its next evolution stage upon catch     | 2x         |
-| ![image tooltip here](/pokeballs/feminine_ball.png) Feminine Ball   | Changes a Pokemon's gender to Female upon catch            | 2x         |
-| ![image tooltip here](/pokeballs/masculine_ball.png) Masculine Ball | Changes a Pokemon's gender to Male upon catch              | 2x         |
+| Ball                                                            | Usage                                                      | Catch Rate |
+|:----------------------------------------------------------------|:-----------------------------------------------------------|:-----------|
+| ![De-Evolution Ball](/pokeballs/evolution_ball.png) De-Evo Ball | Changes Pokemon to its previous evolution stage upon catch | 2x         |
+| ![Evolution Ball](/pokeballs/evolution_ball.png) Evolution Ball | Changes Pokemon to its next evolution stage upon catch     | 2x         |
+| ![Feminine Ball](/pokeballs/feminine_ball.png) Feminine Ball    | Changes a Pokemon's gender to Female upon catch            | 2x         |
+| ![Masculine Ball](/pokeballs/masculine_ball.png) Masculine Ball | Changes a Pokemon's gender to Male upon catch              | 2x         |
 
 ## Status Effect Balls 
 
-| Ball                                                              | Usage/Catch Rate                                                                 | 
-|:------------------------------------------------------------------|:---------------------------------------------------------------------------------|
-| ![image tooltip here](/pokeballs/burn_ball.png) Burn Ball         | 8x catch rate against burnt Pokemon                                              |
-| ![image tooltip here](/pokeballs/freeze_ball.png) Freeze Ball     | 8x catch rate against frozen Pokemon                                             |
-| ![image tooltip here](/pokeballs/paralyze_ball.png) Paralyze Ball | 8x catch rate against paralyzed Pokemon                                          |
-| ![image tooltip here](/pokeballs/poison_ball.png) Poison Ball     | 8x catch rate against poisoned Pokemon                                           |
-| ![image tooltip here](/pokeballs/team_ball.png) Switch Ball       | Upon catch, sends your Party Slot 6 Pokemon to your PC, switching places with it |
+| Ball                                                         | Usage/Catch Rate                                                                 | 
+|:-------------------------------------------------------------|:---------------------------------------------------------------------------------|
+| ![Burn Ball](/pokeballs/burn_ball.png) Burn Ball             | 8x catch rate against burnt Pokemon                                              |
+| ![Freeze Ball](/pokeballs/freeze_ball.png) Freeze Ball       | 8x catch rate against frozen Pokemon                                             |
+| ![Paralyze Ball](/pokeballs/paralyze_ball.png) Paralyze Ball | 8x catch rate against paralyzed Pokemon                                          |
+| ![Poison Ball](/pokeballs/poison_ball.png) Poison Ball       | 8x catch rate against poisoned Pokemon                                           |
+| ![Switch](/pokeballs/team_ball.png) Switch Ball              | Upon catch, sends your Party Slot 6 Pokemon to your PC, switching places with it |
 
 
 
