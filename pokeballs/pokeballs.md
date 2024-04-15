@@ -67,7 +67,7 @@ has_toc: true
 | ![Freeze Ball](/pokeballs/freeze_ball.png) Freeze Ball       | 8x catch rate against frozen Pokemon                                             |
 | ![Paralyze Ball](/pokeballs/paralyze_ball.png) Paralyze Ball | 8x catch rate against paralyzed Pokemon                                          |
 | ![Poison Ball](/pokeballs/poison_ball.png) Poison Ball       | 8x catch rate against poisoned Pokemon                                           |
-| ![Switch](/pokeballs/team_ball.png) Switch Ball              | Upon catch, sends your Party Slot 6 Pokemon to your PC, switching places with it |
+| ![Switch Ball](/pokeballs/team_ball.png) Switch Ball         | Upon catch, sends your Party Slot 6 Pokemon to your PC, switching places with it |
 
 
 
