@@ -4,6 +4,13 @@ layout: home
 nav_order: 1
 ---
 
-Connect with play.projectshiba.com
+# Welcome to the Project: Shiba Wiki! 
+### This contains information on everything you need to know about playing on our servers!
 
-Welcome to the Project Shiba Wiki! This contains information on everything you need to know about playing on our servers!
+{: .highlight }
+> **SERVER IP:** `play.projectshiba.com`
+
+# Navigation
+| [![Image](/images/resource_pack_icon.png)](https://wiki.projectshiba.com/tutorials/resource_pack)                        | [![Image](/images/tutorials_nav_icon.png)](https://wiki.projectshiba.com/tutorials/tutorials) | [![Image](/images/custom_textures_icon.png)](https://wiki.projectshiba.com/tutorials/tutorials) |
+|:-------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------|
+| [![Image](/images/custom_pokeballs_icon.png)](https://wiki.projectshiba.com/pokeballs/pokeballs)                         | [![Image](/images/dimensions_icon.png)](https://wiki.projectshiba.com/tutorials/tutorials)    | [![Image](/images/server_shops_icon.png)](https://wiki.projectshiba.com/tutorials/tutorials)    | 

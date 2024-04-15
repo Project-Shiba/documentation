@@ -1,7 +1,7 @@
 ---
 title: Custom Textures
 layout: home
-has_children: true
+has_children: false
 nav_order: 3
 has_toc: true
 ---
@@ -9,14 +9,8 @@ has_toc: true
 # Project: Shiba Server Textures
 ## A comprehensive list of all custom server textures (palettes) available!
 
-# Navigation Structure
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
+{: .highlight }
+> **You will need our [Resource Pack](https://wiki.projectshiba.com/tutorials/resource_pack) to view textures in-game!**
 
 # Aurora Palettes 
 Spawning locations: none
