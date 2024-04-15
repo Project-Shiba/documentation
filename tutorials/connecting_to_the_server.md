@@ -21,7 +21,7 @@ Download the Technic Launcher [here](https://www.technicpack.net/download)
 - Finally, click "Play"
 
 {: .highlight }
-> Optional Performance Tip: Check your Java Settings!
+> ## Performance Tip: Check your Java Settings!
 > - Click "Launcher Options" in the top-right side of the window.
 > - Click "Java Settings"
 > Minecraft Java Version - this should have "64-bit" somewhere in the name
@@ -30,7 +30,11 @@ Download the Technic Launcher [here](https://www.technicpack.net/download)
 
 # Alternate Method: CurseForge
 Download the CurseForge launcher here
+
 - Open CurseForge
+
 - Click 'Browse'
+
 - Search for Project Shiba
+
 - Install & play
