@@ -15,23 +15,23 @@ has_toc: true
 # Aurora Palettes 
 Spawning locations: none
 
-| Palettes                                        | Palettes   | Palettes   | Palettes   | Palettes |
-|:------------------------------------------------|:-----------|:-----------|:-----------|:---------|
-| ![Image](/aurora_sprites/alcremie.png) Alcremie | Eternatus  | Lapras     | Riolu      | Yveltal  |
-| Altaria                                         | Exploud    | Loudred    | Samurott   |          |
-| Amaura                                          | Fraxure    | Lucario    | Sentret    |          |
-| Aurorus                                         | Furret     | Lugia      | Shinotic   |          |
-| Axew                                            | Gabite     | Lunala     | Shuckle    |          |
-| Beautifly                                       | Galvantula | Mew        | Skarmory   |          |
-| Dewott                                          | Garchomp   | Mewtwo     | Slurpuff   |          |
-| Dragonair                                       | Gastly     | Milcery    | Spheal     |          |
-| Dragonite                                       | Gengar     | Mimikyu    | Spinda     |          |
-| Dratini                                         | Gible      | Misdreavus | Spiritomb  |          |
-| Druddigon                                       | Haunter    | Mismagius  | Suicune    |          |
-| Dunsparce                                       | Haxorus    | Morelull   | Swirlix    |          |
-| Eevee                                           | Igglybuff  | Oshawott   | Sylveon    |          |
-| Espeon                                          | Jigglypuff | Phione     | Whismur    |          |
-| Espurr                                          | Joltik     | Rayquaza   | Wigglytuff |          |
+| Palettes                                           | Palettes                                    | Palettes   | Palettes   | Palettes   |
+|:---------------------------------------------------|:--------------------------------------------|:-----------|:-----------|:-----------|
+| ![Image](/aurora_sprites/alcremie.png) Alcremie | Eternatus                                   | Lapras     | Riolu      | Yveltal    |
+| Altaria                                            | Exploud                                     | Loudred    | Samurott   |            |
+| Amaura                                             | Fraxure                                     | Lucario    | Sentret    |            |
+| Aurorus                                            | Furret                                      | Lugia      | Shinotic   |            |
+| Axew                                               | Gabite                                      | Lunala     | Shuckle    |            |
+| Beautifly                                          | Galvantula                                  | Mew        | Skarmory   |            |
+| Dewott                                             | Garchomp                                    | Mewtwo     | Slurpuff   |            |
+| Dragonair                                          | Gastly                                      | Milcery    | Spheal     |            |
+| Dragonite                                          | ![Image](/aurora_sprites/gengar.png) Gengar | Mimikyu    | Spinda     |            |
+| Dratini                                            | Gible                                       | Misdreavus | Spiritomb  |            |
+| Druddigon                                          | Haunter                                     | Mismagius  | Suicune    |            |
+| Dunsparce                                          | Haxorus                                     | Morelull   | Swirlix    |            |
+| Eevee                                              | Igglybuff                                   | Oshawott   | Sylveon    |            |
+| Espeon                                             | Jigglypuff                                  | Phione     | Whismur    |            |
+| Espurr                                             | Joltik                                      | Rayquaza   | Wigglytuff |            |
 
 # Ancient Palettes 
 Spawning locations: none
@@ -68,12 +68,17 @@ Spawning locations: none
 - Pixelmon has their own set of Rainbow Palettes, which can be found [here](https://pixelmonmod.com/wiki/Special_textures).
 - The [Rainbow Wing](https://pixelmonmod.com/wiki/Rainbow_Wing) is used to convert a Pokemon to its Rainbow variant, provided that it has one.
 
-| Palettes  |
-|:----------|
-| Furret    |
-| Gengar    |
-| Leafeon   |
-| Pikachu   |
+| Palettes                                                                                                                           |
+|:-----------------------------------------------------------------------------------------------------------------------------------|
+| ![Image](/rainbow_sprites/furret.png) Furret                                                                                       |
+| ![Image](/rainbow_sprites/gengar.png) ![Image](/rainbow_sprites/gengar_mega.png) ![Image](/rainbow_sprites/gengar_gmax.png) Gengar |
+| ![Image](/rainbow_sprites/leafeon.png) Leafeon                                                                                     |
+| ![Image](/rainbow_sprites/jolteon.png) Jolteon                                                                                     |
+| ![Image](/rainbow_sprites/pikachu.png) Pikachu                                                                                     |
+| ![Image](/rainbow_sprites/joltik.png) Joltik                                                                                       |
+| ![Image](/rainbow_sprites/galvantula.png) Galvantula                                                                               |
+| ![Image](/rainbow_sprites/lugia.png) Lugia                                                                                         |
+| ![Image](/rainbow_sprites/xerneas.png) Xerneas                                                                                     |
 
 # Pink Coral Palettes 
 Spawning locations: Dreamworld
