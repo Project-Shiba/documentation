@@ -44,20 +44,29 @@ Spawning locations: none
 | ![Image](/ancient_sprites/bronzong.png) Bronzong                                                 |
 | ![Image](/ancient_sprites/duraludon.png) ![Image](/ancient_sprites/duraludon_gmax.png) Duraludon |
 
+# Angel Palettes
+Spawning locations: none
+
+| Palettes                                         |
+|:-------------------------------------------------|
+| ![Image](/sprites/angel_gardevoir.png) Gardevoir |
+
 # Assassin Palettes 
 Spawning locations: none
 
-| Palettes     |
-|:-------------|
-| Reuniclus    |
-| Hitmonlee    |
-| Starmie      |
-| Aegislash    |
-| Mimikyu      |
-| Kartana      |
+| Palettes                                                                                                            |
+|:--------------------------------------------------------------------------------------------------------------------|
+| ![Image](/assassin_sprites/reuniclus.png) Reuniclus                                                                 |
+| ![Image](/assassin_sprites/hitmonless.png) Hitmonlee                                                                |
+| ![Image](/sprites/assassin_sprites/starmie.png) Starmie                                                             |
+| ![Image](/sprites/assassin_sprites/aeg_blade.png) ![Image](/sprites/assassin_sprites/aeg_shield.png) Aegislash      |
+| ![Image](/sprites/assassin_sprites/mimikyu_busted.png) ![Image](/sprites/assassin_sprites/mimikyu_disg.png) Mimikyu |
+| ![Image](/sprites/assassin_sprites/kartana.png) Kartana                                                             |
 
 # Rainbow Palettes 
 Spawning locations: none
+- Pixelmon has their own set of Rainbow Palettes, which can be found [here](https://pixelmonmod.com/wiki/Special_textures).
+- The [Rainbow Wing](https://pixelmonmod.com/wiki/Rainbow_Wing) is used to convert a Pokemon to its Rainbow variant, provided that it has one.
 
 | Palettes  |
 |:----------|
