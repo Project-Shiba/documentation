@@ -25,6 +25,7 @@ This page is a reference to common items and their prices.
 | [Z-Crystals](https://pixelmonmod.com/wiki/Z-Crystals)                               | ¥20,0000  |
 
 ## Keys
+- Used at `/warp crates`
 
 | Key                           | Price    |
 |:------------------------------|:---------|
