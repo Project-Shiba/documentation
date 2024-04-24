@@ -9,7 +9,7 @@ grand_parent: Fakemon
 
 ![Image](/fakemon_pics/gartios.png)
 
-- Garchomp + Latios Fusion
+# Garchomp + Latios Fusion
 
 ### Type
 - Dragon, Psychic

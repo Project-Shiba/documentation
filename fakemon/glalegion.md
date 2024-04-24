@@ -9,7 +9,7 @@ grand_parent: Fakemon
 
 ![Image](/fakemon_pics/glalegion.png)
 
-- Glalie x Basculegion Fusion
+# Glalie x Basculegion Fusion
 
 ### Type
 - Ice, Ghost

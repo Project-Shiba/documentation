@@ -9,7 +9,7 @@ grand_parent: Fakemon
 
 ![Image](/fakemon_pics/mewshiram.png)
 
-- Mew x Reshiram Fusion
+# Mew x Reshiram Fusion
 
 ### Type
 - Psychic, Dragon

@@ -9,7 +9,7 @@ grand_parent: Fakemon
 
 ![Image](/fakemon_pics/rayshiram.png)
 
-- Rayquaza x Reshiram Fusion
+# Rayquaza x Reshiram Fusion
 
 ### Type
 - Dragon, Flying
