@@ -37,11 +37,13 @@ This page is a reference to common items and their prices.
 | Texture Crate                 | 850,000 |
 
 ## Charms
-| Charm        | Usage                                          | Price    |
-|:-------------|:-----------------------------------------------|:---------|
-| Flight Charm | Grants 30 minutes of temporary creative flight | 200,000  |
+
+| Charm        | Usage                                          | Price   |
+|:-------------|:-----------------------------------------------|:--------|
+| Flight Charm | Grants 30 minutes of temporary creative flight | 200,000 |
 
 ## Outbreaks
+
 | Outbreak | Usage                           | Price   |
 |:---------|:--------------------------------|:--------|
 | Standard | Spawns 10 random Pokemon        | 500,000 |
@@ -49,10 +51,11 @@ This page is a reference to common items and their prices.
 | Starter  | Spawns 5 random starter Pokemon | 400,000 |
 
 ## Tokens
-| Token                 | Usage                                                    | Price   |
-|:----------------------|:---------------------------------------------------------|:--------|
-| Poketoken             | Awards one random prize                                  | 5,000   |
-| Party Heal Token      | Heals your entire party                                  | 20,000  |
-| Bingo Reroll Token    | Rerolls your Bingo Card                                  | 100,000 |
-| Experience Booster    | Temporarily boosts amount of Pokemon experience gained   | 200,000 |
-| Lucky Capture Booster | Temporarily boosts the chance of getting a Lucky Capture | 200,000 |
+
+| Token                 | Usage                                                    | Price    |
+|:----------------------|:---------------------------------------------------------|:---------|
+| Poketoken             | Awards one random prize                                  | 5,000    |
+| Party Heal Token      | Heals your entire party                                  | 20,000   |
+| Bingo Reroll Token    | Rerolls your Bingo Card                                  | 100,000  |
+| Experience Booster    | Temporarily boosts amount of Pokemon experience gained   | 200,000  |
+| Lucky Capture Booster | Temporarily boosts the chance of getting a Lucky Capture | 200,000  |
