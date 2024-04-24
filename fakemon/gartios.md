@@ -1,15 +1,15 @@
 ---
-title: Gartias
+title: Gartios
 layout: page
 parent: Fakemon Fusions
 grand_parent: Fakemon
 ---
 
-# Gartias
+# Gartios
 
-![Image](/fakemon_pics/gartias.png)
+![Image](/fakemon_pics/gartios.png)
 
-- Garchomp + Latias Fusion
+- Garchomp + Latios Fusion
 
 ### Type
 - Dragon, Psychic
@@ -38,6 +38,6 @@ grand_parent: Fakemon
 | HP      | 90    |
 | ATK     | 100   |
 | DEF     | 80    |
-| SP. ATK | 105   |
-| SP. DEF | 130   |
+| SP. ATK | 130   |
+| SP. DEF | 105   |
 | SPD     | 115   |
