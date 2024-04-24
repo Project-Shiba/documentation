@@ -10,19 +10,19 @@ This page is a reference to common items and their prices.
 
 ## Pixelmon Items
 
-| Item                                                                                | Price     |
-|:------------------------------------------------------------------------------------|:----------|
-| [Rare Candy](https://pixelmonmod.com/wiki/Rare_Candy)                               | ¥5,000    |
-| [Silver Bottle Cap](https://pixelmonmod.com/wiki/Silver_Bottle_Cap)                 | ¥50,000   |
-| [Gold Bottle Cap](https://pixelmonmod.com/wiki/Gold_Bottle_Cap)                     | ¥100,000  |
-| [Copper Hourglass](https://pixelmonmod.com/wiki/Isi_Copper_Hourglass)               | ¥50,000   |
-| [Silver Hourglass](https://pixelmonmod.com/wiki/Isi_Silver_Hourglass)               | ¥150,000  |
-| [Gold Hourglass](https://pixelmonmod.com/wiki/Isi_Gold_Hourglass)                   | ¥200,000  |
-| [Diamond Hourglass](https://pixelmonmod.com/wiki/Isi_Diamond_Hourglass)             | ¥250,000  |
-| [Waterdude Wishing Piece](https://pixelmonmod.com/wiki/Waterdude%27s_Wishing_Piece) | ¥500,000  |
-| [Wishing Piece](https://pixelmonmod.com/wiki/Wishing_Piece)                         | ¥60,000   |
-| [Orbs](https://pixelmonmod.com/wiki/Orb)                                            | ¥100,000  |
-| [Z-Crystals](https://pixelmonmod.com/wiki/Z-Crystals)                               | ¥20,0000  |
+| Item                                                                                | Price   |
+|:------------------------------------------------------------------------------------|:--------|
+| [Rare Candy](https://pixelmonmod.com/wiki/Rare_Candy)                               | ¥5,000  |
+| [Silver Bottle Cap](https://pixelmonmod.com/wiki/Silver_Bottle_Cap)                 | ¥50,000 |
+| [Gold Bottle Cap](https://pixelmonmod.com/wiki/Gold_Bottle_Cap)                     | ¥250,000 |
+| [Copper Hourglass](https://pixelmonmod.com/wiki/Isi_Copper_Hourglass)               | ¥50,000 |
+| [Silver Hourglass](https://pixelmonmod.com/wiki/Isi_Silver_Hourglass)               | ¥150,000 |
+| [Gold Hourglass](https://pixelmonmod.com/wiki/Isi_Gold_Hourglass)                   | ¥200,000 |
+| [Diamond Hourglass](https://pixelmonmod.com/wiki/Isi_Diamond_Hourglass)             | ¥250,000 |
+| [Waterdude Wishing Piece](https://pixelmonmod.com/wiki/Waterdude%27s_Wishing_Piece) | ¥500,000 |
+| [Wishing Piece](https://pixelmonmod.com/wiki/Wishing_Piece)                         | ¥60,000 |
+| [Orbs](https://pixelmonmod.com/wiki/Orb)                                            | ¥100,000 |
+| [Z-Crystals](https://pixelmonmod.com/wiki/Z-Crystals)                               | ¥20,000 |
 
 ## Keys
 - Used at `/warp crates`
@@ -45,11 +45,12 @@ This page is a reference to common items and their prices.
 
 ## Outbreaks
 
-| Outbreak | Usage                           | Price     |
-|:---------|:--------------------------------|:----------|
-| Standard | Spawns 10 random Pokemon        | ¥500,000  |
-| Shiny    | Spawns 5 random shiny Pokemon   | ¥400,000  |
-| Starter  | Spawns 5 random starter Pokemon | ¥400,000  |
+| Outbreak     | Usage                           | Price    |
+|:-------------|:--------------------------------|:---------|
+| Standard     | Spawns 10 random Pokemon        | ¥500,000 |
+| Shiny        | Spawns 5 random shiny Pokemon   | ¥400,000 |
+| Starter      | Spawns 5 random starter Pokemon | ¥400,000 |
+| Boss         | Spawns 3 random boss Pokemon    | ¥300,000 |
 
 ## Tokens
 
