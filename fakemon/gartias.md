@@ -1,7 +1,7 @@
 ---
 title: Gartias
 layout: page
-parent: Fakemon Fusions
+parent: Fusions
 ---
 
 # Gartias
