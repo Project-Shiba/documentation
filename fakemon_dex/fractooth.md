@@ -1,7 +1,8 @@
 ---
 title: Fractooth
 layout: page
-parent: Fakemon
+parent: Fakemons
+grand_parent: Fakemon Dex
 ---
 
 # Fractooth

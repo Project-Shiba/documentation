@@ -2,7 +2,7 @@
 title: Furwing
 layout: page
 parent: Fakemon Fusions
-grand_parent: Fakemon
+grand_parent: Fakemon Dex
 ---
 
 # Furwing

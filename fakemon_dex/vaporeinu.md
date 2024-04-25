@@ -2,7 +2,7 @@
 title: Vaporeinu
 layout: page
 parent: Shibees
-grand_parent: Fakemon
+grand_parent: Fakemon Dex
 ---
 
 # Vaporeinu

@@ -2,7 +2,7 @@
 title: Jolteinu
 layout: page
 parent: Shibees
-grand_parent: Fakemon
+grand_parent: Fakemon Dex
 ---
 
 # Jolteinu
