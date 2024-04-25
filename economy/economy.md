@@ -27,15 +27,15 @@ This page is a reference to common items and their prices.
 ## Keys
 - Used at `/warp crates`
 
-| Key                           | Price    |
-|:------------------------------|:---------|
-| Plushie Crate                 | ¥50,000  |
-| Pokemon Crate                 | ¥100,000 |
-| Shiny Pokemon Crate           | ¥150,000  |
-| Legendary Pokemon Crate       | ¥500,000 |
-| Shiny Legendary Pokemon Crate | ¥700,000 |
-| Shiba Crate                   | ¥70,000  |
-| Texture Crate                 | ¥850,000 |
+| Key                           | Price      |
+|:------------------------------|:-----------|
+| Plushie Crate                 | ¥50,000    |
+| Pokemon Crate                 | ¥100,000   |
+| Shiny Pokemon Crate           | ¥150,000   |
+| Legendary Pokemon Crate       | ¥500,000   |
+| Shiny Legendary Pokemon Crate | ¥700,000   |
+| Shiba Crate                   | ¥70,000    |
+| Texture Crate                 | ¥850,000   |
 
 ## Charms
 

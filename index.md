@@ -2,6 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
+last_modified_date: true
 ---
 
 # Welcome to the Project: Shiba Wiki! 

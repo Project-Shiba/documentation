@@ -2,6 +2,7 @@
 title: Resource Pack
 layout: page
 parent: Tutorials
+last_modified_date: true
 ---
 
 # How to Install Resource Pack
