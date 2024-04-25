@@ -1,5 +1,5 @@
 ---
-title: Fakemons
+title: Paradoxes
 layout: page
 has_children: true
 parent: Fakemon Dex
