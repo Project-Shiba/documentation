@@ -2,8 +2,7 @@
 title: Shibees
 layout: page
 has_children: true
-parent: Fakemons
-grand_parent: Fakemon Dex
+parent: Fakemon Dex
 has_toc: true
 ---
 
