@@ -19,7 +19,7 @@ grand_parent: Fakemon Dex
 - Ice Body
 
 ### Level-Up Moves
-## Evolves into [Frostodon](www.google.com) at level 25.
+## Evolves into [Frostodon](https://wiki.projectshiba.com/fakemon_dex/frostodon) at level 25.
 
 | Level   | Move                |
 |:--------|:--------------------|
@@ -44,6 +44,7 @@ grand_parent: Fakemon Dex
 - Bide, Bubble Beam, Captivate, Confide, Curse, Double Team, Double-Edge, Frustration, Fury Attack, Fury Cutter, Headbutt, Hidden Power, Knock Off, Mimic, Mud Sport, Natural Gift, Quick Attack, Rage, Return, Secret Power, Signal Beam, Skull Bash, Swagger, Take Down, Toxic, Water Gun, Water Sport
 
 ### Base Stats
+
 | Stat    | Value |
 |:--------|:------|
 | HP      | 45    |

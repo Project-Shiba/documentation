@@ -33,6 +33,7 @@ grand_parent: Fakemon Dex
 - Confide, Cut, Defog, Double Team, Dragon Rage, Dragon Tail, Amnesia, Fire Blast, Sludge Bomb, Spikes, Outrage, Psychic, Amnesia, Leech Life, Baton Pass, Crunch, Trick, Heat Wave
 
 ### Base Stats
+
 | Stat    | Value |
 |:--------|:------|
 | HP      | 120   |

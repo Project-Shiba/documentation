@@ -33,6 +33,7 @@ grand_parent: Fakemon Dex
 - None
 
 ### Base Stats
+
 | Stat    | Value |
 |:--------|:------|
 | HP      | 100   |

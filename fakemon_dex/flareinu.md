@@ -33,6 +33,7 @@ grand_parent: Fakemon Dex
 - Bide, Captivate, Confide, Double Team, Echoed  Voice, Flame Charge, Frustration, Headbutt, Heal Bell, Hidden Power, Incinerate, Laser Focus, Leer, Mimic, Natural Gift, Rage, Reflect, Refresh, Return, Roar, Rock Smash, Secret Power, Sing, Skull Bash, Strength, Swagger, Synchronoise, Toxic, Trump Card, Zap Cannon
 
 ### Base Stats
+
 | Stat    | Value |
 |:--------|:------|
 | HP      | 65    |

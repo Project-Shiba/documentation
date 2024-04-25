@@ -33,6 +33,7 @@ grand_parent: Fakemon Dex
 - Aerial Ace, Captivate, Aqua Tail, Confide, Cut, Double Team, Double-Edge, Heal Block, Fury Cutter, Hone Claws, Magic Coat, Mimic, Psywave, Refresh, Roar, Roost, Swagger, Shock Wave, Rock Smash, Toxic, Twister, Water Pulse
 
 ### Base Stats
+
 | Stat    | Value |
 |:--------|:------|
 | HP      | 90    |
