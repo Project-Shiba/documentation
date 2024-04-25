@@ -8,6 +8,7 @@ parent: Dimensions
 > Dreamworld is a whimsical place in the clouds. All kinds of special Pokemon can be found here!
 > 
 > Visit Dreamworld at `/warp dreamworld`
+
 ## Map
 ![Image](/images/dreamworldmap.png)
 
