@@ -18,7 +18,7 @@ has_toc: true
 | Ball                                                                           | Usage                                                                                    | Works on                           | Price    | Catch Rate |
 |:-------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:-----------------------------------|:---------|:-----------|
 | ![image tooltip here](/pokeballs/clone_ball.png)  Clone Ball                   | Receive a clone of the Pokemon caught with this ball                                     | All Pokemon                        | ¥150,000 | 2x         |
-| ![image tooltip here](/pokeballs/gigantamax_ball.png)  Gigantamax Ball         | Gives a Pokemon (if it's able to have it) the Gigantamax factor <b>(100% catch rate)</b> | All Pokemon                        | ¥375,000 | 100%       |
+| ![image tooltip here](/pokeballs/gigantamax_ball.png)  Gigantamax Ball         | Gives a Pokemon (if it's able to have it) the Gigantamax factor <b>(100% catch rate)</b> | All Pokemon                        | ¥650,000 | 100%       |
 | ![image tooltip here](/pokeballs/max_iv_ball.png)  MaxIV Ball                  | Gives a Pokemon max battle IVs on catch                                                  | All Pokemon                        | ¥150,000 | 2x         |
 | ![image tooltip here](/pokeballs/hidden_ability_ball.png)  Hidden Ability Ball | Changes the Pokemon's ability to one of its Hidden Abilities                             | Pokemon must have a Hidden Ability | ¥150,000 | 2x         |
 
