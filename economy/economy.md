@@ -45,12 +45,13 @@ This page is a reference to common items and their prices.
 
 ## Outbreaks
 
-| Outbreak     | Usage                           | Price    |
-|:-------------|:--------------------------------|:---------|
-| Standard     | Spawns 10 random Pokemon        | ¥500,000 |
-| Shiny        | Spawns 5 random shiny Pokemon   | ¥400,000 |
-| Starter      | Spawns 5 random starter Pokemon | ¥400,000 |
-| Boss         | Spawns 3 random boss Pokemon    | ¥300,000 |
+| Outbreak | Usage                           | Price    |
+|:---------|:--------------------------------|:---------|
+| Standard | Spawns 10 random Pokemon        | ¥500,000 |
+| Shiny    | Spawns 5 random shiny Pokemon   | ¥400,000 |
+| Starter  | Spawns 5 random starter Pokemon | ¥400,000 |
+| Boss     | Spawns 3 random boss Pokemon    | ¥300,000 |
+| Spooky   | Spawns 10 random spooky Pokemon | ¥600,000 |
 
 ## Tokens
 
