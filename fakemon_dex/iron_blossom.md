@@ -47,7 +47,7 @@ grand_parent: Fakemon Dex
 - Substitute, Sludge Bomb, Endure, Sleep Talk, Encore, Uproar, Taunt, Hyper Voice, Poison Jab, Gunk Shot, Sludge Wave, Stored Power, Venom Drench
 
 ### Transfer Moves
-- Bide, Captivate, Confide, Double Team, Echoed  Voice, Flame Charge, Frustration, Headbutt, Heal Bell, Hidden Power, Incinerate, Laser Focus, Leer, Mimic, Natural Gift, Rage, Reflect, Refresh, Return, Roar,Rock Smash, Secret Power, Sing, Skull Bash, Strength, Swagger, Synchronoise, Toxic, Trump Card, Zap Cannon
+- Bide, Captivate, Confide, Double Team, Echoed  Voice, Flame Charge, Frustration, Headbutt, Heal Bell, Hidden Power, Incinerate, Laser Focus, Leer, Mimic, Natural Gift, Rage, Reflect, Refresh, Return, Roar, Rock Smash, Secret Power, Sing, Skull Bash, Strength, Swagger, Synchronoise, Toxic, Trump Card, Zap Cannon
 
 ### Base Stats
 
