@@ -202,18 +202,18 @@ Spawning locations: none
 # Golden Volcanic Palettes 
 Spawning locations: /warp volcano
 
-| Palettes   | Palettes  | Palettes  |
-|:-----------|:----------|:----------|
-| Frigibax   | Heatran   | Rhyhorn   |
-| Arctibax   | Scyther   | Rhyperior |
-| Baxcalibur | Scizor    | Terrakion |
-| Wooper     | Kleavor   |           |
-| Clodsire   | Larvitar  |           |
-| Fuecoco    | Pupitar   |           |
-| Crocalor   | Tyranitar |           |
-| Skeledirge | Onix      |           |
-| Golett     | Steelix   |           |
-| Golurk     | Regirock  |           |
+| Palettes   | Palettes  | Palettes   |
+|:-----------|:----------|:-----------|
+| Frigibax   | Heatran   | Rhyhorn    |
+| Arctibax   | Scyther   | Rhyperior  |
+| Baxcalibur | Scizor    | Rhydon     |
+| Wooper     | Kleavor   | Terrakion  |
+| Clodsire   | Larvitar  |            |
+| Fuecoco    | Pupitar   |            |
+| Crocalor   | Tyranitar |            |
+| Skeledirge | Onix      |            |
+| Golett     | Steelix   |            |
+| Golurk     | Regirock  |            |
 
 # Cosmotian Palettes 
 Spawning locations: none
@@ -329,10 +329,10 @@ Spawning locations: /warp volcano
 | Eternatus   | Golurk     | Milotic          | Clodsire        |
 | Fuecoco     | Groudon    | Noivern          | Zarude          |
 | Crocalor    | Heatran    | Onix             | Hisuian Zoroark |
-| Skeledirge  | Scyther    | Steelix          |                 |
-| Frigibax    | Scizor     | Rotom (all)      |                 |
-| Arctibax    | Kleavor    | Hisuian Samurott |                 |
-| Baxcaliber  | Krookadile | Galarian Slowbro |                 |
+| Skeledirge  | Scyther    | Steelix          | Rhyhorn         |
+| Frigibax    | Scizor     | Rotom (all)      | Rhydon          |
+| Arctibax    | Kleavor    | Hisuian Samurott | Rhyperior       |
+| Baxcaliber  | Krookadile | Galarian Slowbro | Hoopa           |
 
 # Spooky Palettes 
 Spawning locations: none
@@ -340,10 +340,10 @@ Spawning locations: none
 | Palettes    | Palettes   | Palettes  | Palettes   | Palettes   | Palettes    | Palettes |
 |:------------|:-----------|:----------|:-----------|:-----------|:------------|:---------|
 | Banette     | Timburr    | Solosis   | Golurk     | Marshadow  | Tentacool   | Carreon  |
-| Blacephalon | Gurdurr    | Duosion   | Hoopa      | Mewtwo     | Tentacruel  |          |
-| Bulbasaur   | Conkeldurr | Reuniclus | Jirachi    | Mimikyu    | Togepi      |          |
-| Ivysaur     | Cresselia  | Eevee     | Kabuto     | Mismagius  | Togekiss    |          |
-| Venusaur    | Cutiefly   | Eternatus | Kabutops   | Murkrow    | Togetic     |          |
+| Blacephalon | Gurdurr    | Duosion   | Hoopa      | Mewtwo     | Tentacruel  | Applin   |
+| Bulbasaur   | Conkeldurr | Reuniclus | Jirachi    | Mimikyu    | Togepi      | Flapple  |
+| Ivysaur     | Cresselia  | Eevee     | Kabuto     | Mismagius  | Togekiss    | Appletun |
+| Venusaur    | Cutiefly   | Eternatus | Kabutops   | Murkrow    | Togetic     | Yamask   |
 | Cacnea      | Delcatty   | Feebas    | Litwick    | Honchkrow  | Victini     |          |
 | Cacturn     | Dreepy     | Milotic   | Lampent    | Nihilego   | Wobbuffet   |          |
 | Charmander  | Drakloak   | Glameow   | Chandelure | Rayquaza   | Xurkitree   |          |
@@ -363,13 +363,14 @@ Spawning locations: none
 | Delcatty   | Teddiursa | Meowscarada     |
 | Furret     | Ursaring  | Hisuian Zorua   |
 | Joltik     | Eevee     | Hisuian Zoroark |       
-| Galvantula | Espeon    |                 |
-| Oddish     | Jolteon   |                 |
-| Gloom      | Leafeon   |                 |
+| Galvantula | Espeon    | Togepi          |
+| Oddish     | Jolteon   | Togetic         |
+| Gloom      | Leafeon   | Togekiss        |
 | Lugia      | Sylveon   |                 |
 
 # Christmas Palettes
-Spawning locations: none
+Note: Pixelmon has its own Christmas Palettes, which can be found [here](https://pixelmonmod.com/wiki/Christmas_Ball). 
+These palettes are not included in our server's texture list.
 
 | Palettes        | Palettes |
 |:----------------|:---------|
@@ -382,6 +383,12 @@ Spawning locations: none
 | Gengar          | Xerneas  |
 | Greninja        | Zacian   |
 
-
-
-
+# Jolly Palettes
+| Palettes              |
+|:----------------------|
+| Sinistea              |
+| Polteageist           |
+| Venusaur              |
+| Torterra              |
+| Furret                |
+| Unknown (HoHoHo Form) |
