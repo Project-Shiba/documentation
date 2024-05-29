@@ -384,6 +384,7 @@ These palettes are not included in our server's texture list.
 | Greninja        | Zacian   |
 
 # Jolly Palettes
+
 | Palettes              |
 |:----------------------|
 | Sinistea              |
