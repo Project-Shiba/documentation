@@ -13,7 +13,7 @@ has_toc: true
 > **You will need our [Resource Pack](https://wiki.projectshiba.com/tutorials/resource_pack) to view textures in-game!**
 
 # Aurora Palettes 
-Spawning locations: none
+- Spawning locations: none
 
 | Palettes                                          | Palettes                                    | Palettes                                         | Palettes   | Palettes   |
 |:--------------------------------------------------|:--------------------------------------------|:-------------------------------------------------|:-----------|:-----------|
@@ -34,7 +34,7 @@ Spawning locations: none
 | Espurr                                            | Joltik                                      | Rayquaza                                         | Wigglytuff |            |
 
 # Ancient Palettes 
-Spawning locations: none
+- Spawning locations: none
 
 | Palettes                                                                                           |
 |:---------------------------------------------------------------------------------------------------|
@@ -45,14 +45,14 @@ Spawning locations: none
 | ![Image](/ancient_sprites/duraludon.png) ![Image](/ancient_sprites/duraludon_gmax.png) Duraludon   |
 
 # Angel Palettes
-Spawning locations: none
+- Spawning locations: none
 
 | Palettes                                         |
 |:-------------------------------------------------|
 | ![Image](/sprites/angel_gardevoir.png) Gardevoir |
 
 # Assassin Palettes 
-Spawning locations: none
+- Spawning locations: none
 
 | Palettes                                                                                            |
 |:----------------------------------------------------------------------------------------------------|
@@ -81,7 +81,7 @@ Spawning locations: none
 | ![Image](/rainbow_sprites/xerneas.png) Xerneas                                                                                     |
 
 # Pink Coral Palettes 
-Spawning locations: Dreamworld
+- Spawning locations: [Dreamworld](https://wiki.projectshiba.com/dimensions/dreamworld)
 
 | Palettes   | Palettes   |
 |:-----------|:-----------|
@@ -97,7 +97,7 @@ Spawning locations: Dreamworld
 | Lapras     |            |
 
 # Orange Coral Palettes 
-Spawning locations: Dreamworld
+- Spawning locations: [Dreamworld](https://wiki.projectshiba.com/dimensions/dreamworld)
 
 | Palettes   | Palettes   |
 |:-----------|:-----------|
@@ -113,7 +113,7 @@ Spawning locations: Dreamworld
 | Lapras     |            |
 
 # Ninja Palettes 
-Spawning locations: none
+- Spawning locations: [Dreamworld](https://wiki.projectshiba.com/dimensions/dreamworld)
 
 | Palettes  |
 |:----------|
@@ -127,7 +127,7 @@ Spawning locations: none
 | Zarude    |
 
 # MissingNo Palettes 
-Spawning locations: none
+- Obtainable from the Shiba Crate
 
 | Palettes                                                |
 |:--------------------------------------------------------|
@@ -142,7 +142,7 @@ Spawning locations: none
 | ![Image](/missingno_sprites/yugi.png) MissingYugi       |
 
 # Lunar Palettes 
-Spawning locations: none
+- Spawning locations: none
 
 | Palettes |
 |:---------|
@@ -150,7 +150,7 @@ Spawning locations: none
 | Rayquaza |
 
 # Limited Palettes 
-Spawning locations: none
+- Obtainable from the Shiba Crate
 
 | Palettes   | Palettes  |
 |:-----------|:----------|
@@ -166,7 +166,7 @@ Spawning locations: none
 | Mewtwo     |           |
 
 # Floral Palettes 
-Spawning locations: none
+- Spawning locations: [Dreamworld](https://wiki.projectshiba.com/dimensions/dreamworld)
 
 | Palettes   | Palettes   | Palettes  | Palettes   | Palettes |
 |:-----------|:-----------|:----------|:-----------|:---------|
@@ -184,7 +184,7 @@ Spawning locations: none
 | Breloom    | Turtwig    | Lilligant | Tapu Lele  |          |
 
 # Crystalline Palettes 
-Spawning locations: none
+- Spawning locations: `/warp volcano` (Ninetales only)
 
 | Palettes  | Palettes |
 |:----------|:---------|
@@ -200,7 +200,7 @@ Spawning locations: none
 | Palkia    |          |
 
 # Golden Volcanic Palettes 
-Spawning locations: /warp volcano
+- Spawning locations: `/warp volcano`
 
 | Palettes   | Palettes  | Palettes   |
 |:-----------|:----------|:-----------|
@@ -216,7 +216,7 @@ Spawning locations: /warp volcano
 | Golurk     | Regirock  |            |
 
 # Cosmotian Palettes 
-Spawning locations: none
+- Spawning locations: none
 
 | Palettes |
 |:---------|
@@ -227,7 +227,7 @@ Spawning locations: none
 | Zekrom   |
 
 # Corrupter Palettes 
-Spawning locations: none
+- Spawning locations: [Dreamworld](https://wiki.projectshiba.com/dimensions/dreamworld)
 
 | Palettes  |
 |:----------|
@@ -242,7 +242,7 @@ Spawning locations: none
 | Victini   |
 
 # Black & White Palettes 
-Spawning locations: none
+- Spawning locations: [Dreamworld](https://wiki.projectshiba.com/dimensions/dreamworld)
 
 | Palettes | Palettes   | Palettes |
 |:---------|:-----------|:---------|
@@ -258,7 +258,7 @@ Spawning locations: none
 | Glaceon  | Volcarona  |          |
 
 # Sakura Palettes 
-Spawning locations: none
+- Spawning locations: [Dreamworld](https://wiki.projectshiba.com/dimensions/dreamworld)
 
 | Palettes  | Palettes |
 |:----------|:---------|
@@ -274,7 +274,7 @@ Spawning locations: none
 | Venusaur  |          |
 
 # Shadow Palettes 
-Spawning locations: none
+- Spawning locations: [Dreamworld](https://wiki.projectshiba.com/dimensions/dreamworld)
 
 | Palettes   | Palettes        |
 |:-----------|:----------------|
@@ -289,7 +289,7 @@ Spawning locations: none
 | Spinda     |                 |
 
 # Spiritual Palettes 
-Spawning locations: none
+- Spawning locations: [Dreamworld](https://wiki.projectshiba.com/dimensions/dreamworld)
 
 | Palettes       |
 |:---------------|
@@ -303,7 +303,7 @@ Spawning locations: none
 | Kartana        |
 
 # Shiba Palettes
-Spawning locations: none
+- Obtainable from the Shiba Crate
 
 | Palettes   | Palettes        |
 |:-----------|:----------------|
@@ -317,7 +317,7 @@ Spawning locations: none
 | Misdreavus |                 |
 
 # Volcanic Palettes
-Spawning locations: /warp volcano
+- Spawning locations: `/warp volcano`
 
 | Palettes    | Palettes   | Palettes         | Palettes        | 
 |:------------|:-----------|:-----------------|:----------------|
@@ -335,7 +335,7 @@ Spawning locations: /warp volcano
 | Baxcaliber  | Krookadile | Galarian Slowbro | Hoopa           |
 
 # Spooky Palettes 
-Spawning locations: none
+- Spawning locations: seasonal (Halloween Only)
 
 | Palettes    | Palettes   | Palettes  | Palettes   | Palettes   | Palettes    | Palettes |
 |:------------|:-----------|:----------|:-----------|:-----------|:------------|:---------|
@@ -353,7 +353,7 @@ Spawning locations: none
 | Cofagrigus  | Drifloon   | Golett    | Magnezone  | Tapu Lele  | Gengar      |          |
 
 # Valentine's Palettes
-Spawning locations: none
+- Spawning locations: [Dreamworld](https://wiki.projectshiba.com/dimensions/dreamworld)
 
 | Palettes   | Palettes  | Palettes        |
 |:-----------|:----------|:----------------|
@@ -369,8 +369,9 @@ Spawning locations: none
 | Lugia      | Sylveon   |                 |
 
 # Christmas Palettes
-Note: Pixelmon has its own Christmas Palettes, which can be found [here](https://pixelmonmod.com/wiki/Christmas_Ball). 
+- Note: Pixelmon has its own Christmas Palettes, which can be found [here](https://pixelmonmod.com/wiki/Christmas_Ball). 
 These palettes are not included in our server's texture list.
+- Spawning locations: seasonal (Christmas Only)
 
 | Palettes        | Palettes |
 |:----------------|:---------|
@@ -384,6 +385,7 @@ These palettes are not included in our server's texture list.
 | Greninja        | Zacian   |
 
 # Jolly Palettes
+- Spawning locations: seasonal (Christmas Only)
 
 | Palettes              |
 |:----------------------|
