@@ -64,8 +64,8 @@ has_toc: true
 | ![Image](/assassin_sprites/kartana.png) Kartana                                                     |
 
 # Rainbow Palettes 
-Spawning locations: none
-- Pixelmon has their own set of Rainbow Palettes, which can be found [here](https://pixelmonmod.com/wiki/Special_textures).
+- Spawning locations: [Dreamworld](https://wiki.projectshiba.com/dimensions/dreamworld)
+ - Note: Pixelmon has their own set of Rainbow Palettes, which can be found [here](https://pixelmonmod.com/wiki/Special_textures).
 - The [Rainbow Wing](https://pixelmonmod.com/wiki/Rainbow_Wing) is used to convert a Pokemon to its Rainbow variant, provided that it has one.
 
 | Palettes                                                                                                                           |
