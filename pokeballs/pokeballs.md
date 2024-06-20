@@ -49,10 +49,10 @@ has_toc: true
 | ![Firework Ball](/pokeballs/firework_ball.png) Firework Ball         | Shoots fireworks upon catch                                                                                       | ¥750     | 2x                          |
 | ![Daycare Ball](/pokeballs/breeding_ball.png) Daycare Materials Ball | Upon catch, awards random items from that Pokemon's breeding materials pool                                       | ¥750     | 2x                          |
 | ![Loot Ball](/pokeballs/loot_ball.png) Loot Ball                     | Upon catch, awards extra items from that Pokemon's loot table                                                     | ¥750     | 2x                          |
-| ![Money Ball](/pokeballs/money_ball.png) Money Ball                  | Upon catch, pays the player ¥10000                                                                                | ¥10000   | 2x                          |
+| ![Money Ball](/pokeballs/money_ball.png) Money Ball                  | Upon catch, pays the player ¥10000                                                                                | ¥10,000  | 2x                          |
 | ![Photo Ball](/pokeballs/photo_ball.png) Photo Ball                  | Awards a photo of the caught Pokemon                                                                              | ¥750     | 2x                          |
-| ![Plushie Ball](/pokeballs/plushie_ball.png) Plushie Ball            | Awards a plushie of the caught Pokemon                                                                            | ¥50000   | 2x                          |
-| Curry Ball                                                           | Upon catch, Pokemon will have max happiness                                                                       | ¥10000   | 2x                          |
+| ![Plushie Ball](/pokeballs/plushie_ball.png) Plushie Ball            | Awards a plushie of the caught Pokemon                                                                            | ¥50,000  | 2x                          |
+| Curry Ball                                                           | Upon catch, Pokemon will have max happiness                                                                       | ¥10,000  | 2x                          |
 
 ## Form-Changing Balls
 
