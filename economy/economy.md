@@ -7,6 +7,7 @@ nav_order: 4
 
 # Economy Guidelines
 This page is a reference to common items and their prices. 
+- <b>[Click here to see custom Pokeball prices](https://wiki.projectshiba.com/pokeballs/pokeballs)</b>
 
 ## Pixelmon Items
 
