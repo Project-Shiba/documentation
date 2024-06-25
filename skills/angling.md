@@ -10,9 +10,8 @@ parent: Skills
 - Angling skills can be bound to the following items:
   - Slime Ball, Magma Cream, Dye, Tropical Fish, Cod, Salmon
 
-### Level Up Rewards
+## Level Up Rewards
 
-<!DOCTYPE html>
 <html>
 <body>
 <table>
@@ -53,9 +52,8 @@ parent: Skills
 </body>
 </html>
 
-### Level Up Abilities
+## Level Up Abilities
 
-<!DOCTYPE html>
 <html>
 <body>
 <table>

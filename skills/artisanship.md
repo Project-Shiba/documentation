@@ -10,9 +10,8 @@ parent: Skills
 - Artisanship skills can be bound to the following items:
   - Crafting table, stick, paper, book
 
-### Level Up Rewards
+## Level Up Rewards
 
-<!DOCTYPE html>
 <html>
 <body>
 <table>
@@ -53,8 +52,8 @@ parent: Skills
 </body>
 </html>
 
-### Level Up Abilities
-<!DOCTYPE html>
+## Level Up Abilities
+
 <html>
 <body>
 <table>

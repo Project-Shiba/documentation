@@ -12,7 +12,6 @@ parent: Skills
 
 ### Level Up Rewards
 
-<!DOCTYPE html>
 <html>
 <body>
 <table>
@@ -52,8 +51,8 @@ parent: Skills
 </body>
 </html>
 
-### Level Up Abilities
-<!DOCTYPE html>
+## Level Up Abilities
+
 <html>
 <body>
 <table>
