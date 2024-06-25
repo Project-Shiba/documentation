@@ -48,8 +48,6 @@ parent: Skills
     <td>Zygarde Cell <br>Access to /workbench</td>
   </tr>
 </table>
-
-</body>
 </html>
 
 ## Level Up Abilities
@@ -110,8 +108,5 @@ parent: Skills
     <td>Full Metal Alchemist</td>
 <td>Crafting tables can be used for transmutation, if you know how. You can exchange materials up and down. Improves as your level of crafting increases.<br><i>To activate, left click materials on a crafting table.</i><br> - Cooldown: 20 seconds</td>
   </tr>
-
-
 </body>
 </table>
-</html>
