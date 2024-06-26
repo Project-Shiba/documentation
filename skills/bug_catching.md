@@ -12,8 +12,6 @@ parent: Skills
 
 ### Level Up Rewards
 
-<html>
-<body>
 <table>
   <tr>
     <th>Level</th>
@@ -48,13 +46,9 @@ parent: Skills
     <td>Bug Catcher Pheromosa</td>
   </tr>
 </table>
-</body>
-</html>
 
 ## Level Up Abilities
 
-<html>
-<body>
 <table>
   <tr>
     <th>Level</th>
@@ -104,7 +98,4 @@ parent: Skills
     <td>Mushroom Mania</td>
 <td>Badgers? No, Snakes? No, MUSHROOMS. You occasionally get extra Max Mushrooms when collecting them.</td>
   </tr>
-
-</body>
 </table>
-</html>
