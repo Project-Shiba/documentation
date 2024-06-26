@@ -10,7 +10,7 @@ parent: Skills
 - Bug Catching skills can be bound to the following items:
     - String, cobweb, stick, book
 
-### Level Up Rewards
+## Level Up Rewards
 
 <table>
   <tr>
