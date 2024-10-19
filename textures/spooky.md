@@ -1,7 +1,7 @@
 ---
 title: Spooky Textures
 layout: home
-parent: Textures
+parent: Custom Textures
 ---
 
 # Spooky Palettes
