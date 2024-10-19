@@ -1,7 +1,6 @@
 ---
 title: Spooky Textures
 layout: home
-has_toc: true
 parent: Textures
 ---
 
