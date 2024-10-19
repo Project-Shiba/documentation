@@ -1,7 +1,7 @@
 ---
 title: Custom Textures
 layout: home
-has_children: false
+has_children: true
 nav_order: 3
 has_toc: true
 ---
