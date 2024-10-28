@@ -6,18 +6,35 @@ parent: Custom Textures
 
 # Spooky Palettes
 - Spawning locations: seasonal (Halloween Only)
+# Normal Pokemon
 
-| Palettes    | Palettes   | Palettes  | Palettes   | Palettes   | Palettes    | Palettes |
-|:------------|:-----------|:----------|:-----------|:-----------|:------------|:---------|
-| Banette     | Timburr    | Solosis   | Golurk     | Marshadow  | Tentacool   | Carreon  |
-| Blacephalon | Gurdurr    | Duosion   | Hoopa      | Mewtwo     | Tentacruel  | Applin   |
-| Bulbasaur   | Conkeldurr | Reuniclus | Jirachi    | Mimikyu    | Togepi      | Flapple  |
-| Ivysaur     | Cresselia  | Eevee     | Kabuto     | Mismagius  | Togekiss    | Appletun |
-| Venusaur    | Cutiefly   | Eternatus | Kabutops   | Murkrow    | Togetic     | Yamask   |
-| Cacnea      | Delcatty   | Feebas    | Litwick    | Honchkrow  | Victini     |          |
-| Cacturn     | Dreepy     | Milotic   | Lampent    | Nihilego   | Wobbuffet   |          |
-| Charmander  | Drakloak   | Glameow   | Chandelure | Rayquaza   | Xurkitree   |          |
-| Charmeleon  | Dragapult  | Purugly   | Lunala     | Ribombee   | Sprigatito  |          |
-| Charizard   | Dragonite  | Gligar    | Magnemite  | Shuppet    | Floragato   |          |
-| Chimecho    | Drifblim   | Gliscor   | Magneton   | Spiritomb  | Meowscarada |          |
-| Cofagrigus  | Drifloon   | Golett    | Magnezone  | Tapu Lele  | Gengar      |          |
+| Palettes                                                  | Palettes                                                                   | Palettes                           | Palettes                       |
+|:----------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------|:-------------------------------|
+| Applin, Flapple, Appletun                                 | Cutiefly, Ribombee                                                         | Eternatus,<br/>Eternamax Eternatus | Magnemite, Magneton, Magnezone |
+| Banette (Mega)                                            | Delcatty                                                                   | Feebas, Milotic                    | Mimikyu                        |
+| Bellibolt                                                 | Dracozolt                                                                  | Sprigatito, Floragato, Meowscarada | Misdreavus, Mismagius          |
+| Bulbasaur, Ivysaur, Venusaur                              | Dragapult                                                                  | Joltik, Galvantula                 | Sinistea, Polteageist          |
+| Cacnea, Cacturne                                          | Dragonite                                                                  | Gengar (Gmax, Mega)                | Slowpoke, Slowbro, Slowking    |
+| Litwick, Lampent, Chandelure                              | Drakloak                                                                   | Glameow, Purugly                   | Spiritomb                      |
+| Charmander, Charmeleon, Charizard,<br/>Charizard Mega X/Y | Dreepy                                                                     | Gligar, Gliscor                    | Tentacool, Tentacruel          |
+| Chimecho                                                  | Drifloon, Drifblim                                                         | Golett, Golurk                     | Togepi, Togetic, Togekiss      |
+| Cofagrigus                                                | Solosis, Duosion                                                           | Hattrem, Hatterene                 | Tsareena                       |
+| Timburr, Gurdurr, Conkeldurr                              | Eevee                                                                      | Murkrow, Honchkrow                 | Wobbuffet                      |
+| Cubone, Marowak                                           | Vaporeon, Espeon, Claceon,<br/>Jolteon, Umbreon, Sylveon, Flareon, Leafeon | Kabuto, Kabutops                   | Galar Yamask, Cofagrigus       |
+
+
+# Ultrabeast/Mythical Pokemon
+
+| Palettes        | Palettes  | Palettes |
+|:----------------|:----------|:---------|
+| Blacephalon     | Hoopa     | Jirachi  |
+| Xurkitree       | Marshadow |          |
+
+# Legendary Pokemon
+
+| Palettes  | Palettes | Palettes  |
+|:----------|:---------|:----------|
+| Cresselia | Lunala   | Mewtwo    |
+| Eternatus | Victini  | Tapu Lele |
+| Rayquaza  |          |           |
+
