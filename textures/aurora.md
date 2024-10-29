@@ -1,5 +1,5 @@
 ---
-title: Aurora Textures
+title: Aurora Palettes
 layout: home
 parent: Custom Textures
 ---
