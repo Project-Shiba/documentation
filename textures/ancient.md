@@ -1,5 +1,5 @@
 ---
-title: Ancient Textures
+title: Ancient Palettes
 layout: home
 parent: Custom Textures
 ---

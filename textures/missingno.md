@@ -1,3 +1,9 @@
+---
+title: MissingNo Palettes
+layout: home
+parent: Custom Textures
+---
+
 # MissingNo Palettes
 - Obtainable from the Shiba Crate
 

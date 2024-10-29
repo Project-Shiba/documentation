@@ -1,3 +1,8 @@
+---
+title: Coral Palettes
+layout: home
+parent: Custom Textures
+---
 # Pink Coral Palettes
 - Spawning locations: [Dreamworld](https://wiki.projectshiba.com/dimensions/dreamworld)
 

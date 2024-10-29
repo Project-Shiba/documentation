@@ -1,3 +1,9 @@
+---
+title: Rainbow Palettes
+layout: home
+parent: Custom Textures
+---
+
 # Rainbow Palettes
 - Spawning locations: [Dreamworld](https://wiki.projectshiba.com/dimensions/dreamworld)
 - Note: Pixelmon has their own set of Rainbow Palettes, which can be found [here](https://pixelmonmod.com/wiki/Special_textures).

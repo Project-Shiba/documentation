@@ -1,3 +1,9 @@
+---
+title: Assassin Palettes
+layout: home
+parent: Custom Textures
+---
+
 # Assassin Palettes
 - Spawning locations: none
 

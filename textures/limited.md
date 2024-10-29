@@ -1,3 +1,9 @@
+---
+title: Limited Palettes
+layout: home
+parent: Custom Textures
+---
+
 # Limited Palettes
 - Obtainable from the Shiba Crate
 
