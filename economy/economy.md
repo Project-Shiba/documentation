@@ -2,7 +2,7 @@
 title: Economy
 layout: home
 has_children: false
-nav_order: 4
+nav_order: 7
 ---
 
 # Economy Guidelines
