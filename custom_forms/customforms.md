@@ -1,9 +1,7 @@
 ---
 title: Custom Forms
-layout: page
+layout: home
 has_children: true
-parent: Fakemon Dex
+nav_order: 3
 has_toc: true
 ---
-
-#  Custom Forms
