@@ -5,10 +5,14 @@ parent: Custom Textures
 ---
 
 # Spooky Palettes
-- Spawning locations: seasonal (Halloween Only)
+### Spawning locations: seasonal (Halloween Only)
+Can be obtained from:
+- Spooky Outbreaks, Spooky Spins, Spooky Modifiers
+
 > **Note:** Witch Palettes are in Pixelmon, and can be found on their wiki [here](https://pixelmonmod.com/wiki/Special_textures)
 > 
-> [Halloween Ivysaur](https://pixelmonmod.com/wiki/Ivysaur#Halloween) is a special Pixelmon form and **does not** evolve. This is NOT the same as Spooky Ivysaur, which can evolve into Spooky Venusaur.
+> [Halloween Ivysaur](https://pixelmonmod.com/wiki/Ivysaur#Halloween) is a special Pixelmon form and **will not** keep its form when evolved. This is NOT the same as Spooky Ivysaur, which can evolve into Spooky Venusaur.
+
 # Normal Pokemon
 
 | Palettes                                 | Palettes                                                                   | Palettes                           | Palettes                                    |
