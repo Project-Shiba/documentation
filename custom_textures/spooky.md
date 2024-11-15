@@ -6,8 +6,8 @@ parent: Custom Textures
 
 # Spooky Palettes
 ### Spawning locations: seasonal (Halloween Only)
-Can be obtained from:
-- Spooky Outbreaks, Spooky Spins, Spooky Modifiers
+- Can be obtained from:
+  - Spooky Outbreaks, Spooky Spins, Spooky Modifiers
 
 {: .highlight }
 > **Note:** Witch Palettes are part of Pixelmon, and can be found on their wiki [here](https://pixelmonmod.com/wiki/Special_textures)
